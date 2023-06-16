@@ -1,0 +1,7 @@
+{
+    "Bitcoin": {"ledger": "bitcoin", "unlimit": "BTC"},
+    "Ethereum": {"ledger": "ethereum", "unlimit": "ETH"},
+    "Solana": {"ledger": "solana", "unlimit": "SOL"},
+    "BNB":{"ledger":"bsc","unlimit": "BNB"},
+    "Avalanche C-Chain": {"ledger":"avalanche","unlimit": "AVAX"}
+  }
