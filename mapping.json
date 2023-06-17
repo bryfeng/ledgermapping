@@ -4,5 +4,5 @@
     "Solana": { "ledger" : "solana", "unlimit" : "SOL" },
     "BNB":{ "ledger" : "bsc","unlimit" : "BNB" },
     "Avalanche C-Chain": { "ledger" :"avalanche", "unlimit" : "AVAX" },
-    "Ripple": { "ledger" : "ripple"," unlimit" : "XRP" },
+    "Ripple": { "ledger" : "ripple"," unlimit" : "XRP" }
   }
